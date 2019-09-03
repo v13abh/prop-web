@@ -1,0 +1,13 @@
+#vi: set ft=yaml
+---
+
+qualtrics_api_token: ''
+qualtrics_survey_id: ''
+
+ftp_user_purch: ''
+ftp_pass_purch: ''
+ftp_url_purch: ''
+ftp_path_purch: ''
+
+slack_token: ''
+
